@@ -20,3 +20,5 @@ The linkages simulate what would happen when those representations are changed. 
 What material should I use for the "spring"?
 
 Do I only need one linkage between the servo motor and the small block? I should just need a simple cam-shaft.
+
+How continuous should the motion of each object be?
