@@ -19,6 +19,20 @@ The linkages simulate what would happen when those representations are changed. 
 
 What material should I use for the "spring"?
 
+Experiment
+
 Do I only need one linkage between the servo motor and the small block? I should just need a simple cam-shaft.
 
+Yes.
+
 How continuous should the motion of each object be?
+
+## Improved Sketches ##
+
+![Initial Sketch No. 3](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/200229_midtermSketch_03.jpg)
+
+![Initial Sketch No. 4](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/200229_midtermSketch_04.jpg)
+
+### Notes ###
+
+These were made to be material flexible. I have not adjusted for material thickness, and the thicknesses from the to pview are estimates. Also, I do not know how I will be fastening the spring yet, or what I will make the spring out of (rubber band???).
