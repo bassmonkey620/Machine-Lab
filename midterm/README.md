@@ -39,7 +39,7 @@ These were made to be material flexible. I have not adjusted for material thickn
 
 ## Cardboard Prototype ##
 
-Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
+Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together plywood for the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
 
 ### Motion Description ###
 
