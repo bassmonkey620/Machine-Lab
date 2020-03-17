@@ -41,5 +41,7 @@ These were made to be material flexible. I have not adjusted for material thickn
 
 Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
 
+### Flat Layout Photographs ###
 
+![Full Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_fullLayout.jpg)
 As of now, the class has gone online, and I am modeling the mechanism with the CAD program Fusion360.
