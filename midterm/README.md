@@ -56,11 +56,11 @@ A stepper motor drives a crank shaft through a pulley system. The crank shaft tu
 
 ### Illustrator Layout ###
 
-![Small Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_layout.jpg)
+![AI Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200302_midterm_cardboard_layout.jpg)
 
 ### Parts ###
 
-![Small Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200302_midterm_cardboard_smallBlock.jpg)
+![Small Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_smallBlock.jpg)
 
 ![Large Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_largeBlock.jpg)
 
