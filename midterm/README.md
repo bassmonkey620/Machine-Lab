@@ -41,6 +41,11 @@ These were made to be material flexible. I have not adjusted for material thickn
 
 Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
 
+### Motion Description ###
+
+A stepper motor drives a crank shaft through a pulley system. The crank shaft turns a cam. A cam follower translates that motion into verticle motion. Linkages translate that motion into horizontal motion which pulls the large block back and forth. A spring connecting the large block and small block would pull the small block when the large block moves. A servo motor mounted on the top of the mechanism turns a crank. Linkages turn this motion into horizontal motion which pulls the small block back and forth. A spring connecting the large block and small block would resist this motion.
+
+
 ### Flat Layout ###
 
 ![Full Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_fullLayout.jpg)
@@ -49,7 +54,9 @@ Before the coronavirus precautions went into effect, I was able to laser cut the
 
 ![Bottom Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_bottomLayoutElectronics.jpg)
 
-### Flat Parts ###
+### Illustrator Layout ###
+
+### Parts ###
 
 ![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_smallBlock.jpg)
 
