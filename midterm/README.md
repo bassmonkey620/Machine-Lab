@@ -41,7 +41,34 @@ These were made to be material flexible. I have not adjusted for material thickn
 
 Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
 
-### Flat Layout Photographs ###
+### Flat Layout ###
 
 ![Full Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_fullLayout.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_topLayoutElectronics.jpg)
+
+![Bottom Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_bottomLayoutElectronics.jpg)
+
+### Flat Parts ###
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_smallBlock.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_largeBlock.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_side.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_shaftSupport.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_servoSupport.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageSmallBlock.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageLargeBlock.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageCamFollower.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_camFollower.jpg)
+
+![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_crank.jpg)
+
 As of now, the class has gone online, and I am modeling the mechanism with the CAD program Fusion360.
