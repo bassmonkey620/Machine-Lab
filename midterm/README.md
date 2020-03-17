@@ -36,3 +36,10 @@ How continuous should the motion of each object be?
 ### Notes ###
 
 These were made to be material flexible. I have not adjusted for material thickness, and the thicknesses from the to pview are estimates. Also, I do not know how I will be fastening the spring yet, or what I will make the spring out of (rubber band???).
+
+## Cardboard Prototype ##
+
+Before the coronavirus precautions went into effect, I was able to laser cut the pieces to my model and glue together the weighted blocks. However, I was unable to assemble the prototype and test whether the spring mechanism would be effective.
+
+
+As of now, the class has gone online, and I am modeling the mechanism with the CAD program Fusion360.
