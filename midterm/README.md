@@ -56,26 +56,28 @@ A stepper motor drives a crank shaft through a pulley system. The crank shaft tu
 
 ### Illustrator Layout ###
 
+![Small Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_layout.jpg)
+
 ### Parts ###
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_smallBlock.jpg)
+![Small Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200302_midterm_cardboard_smallBlock.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_largeBlock.jpg)
+![Large Block](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_largeBlock.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_side.jpg)
+![Side](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_side.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_shaftSupport.jpg)
+![Shaft Support](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_shaftSupport.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_servoSupport.jpg)
+![Servo Support](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_servoSupport.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageSmallBlock.jpg)
+![Small Block Linkage](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageSmallBlock.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageLargeBlock.jpg)
+![Large Block Linkage](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageLargeBlock.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageCamFollower.jpg)
+![Cam Follower Linkage](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_linkageCamFollower.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_camFollower.jpg)
+![Cam Follower](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_camFollower.jpg)
 
-![Top Layout](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_crank.jpg)
+![Crank](https://github.com/bassmonkey620/Machine-Lab/blob/master/midterm/referenceMedia/cardboardModel/200317_midterm_cardboard_crank.jpg)
 
-As of now, the class has gone online, and I am modeling the mechanism with the CAD program Fusion360.
+As of now, the class has gone online, and I am modeling the machine with the CAD program Fusion360.
