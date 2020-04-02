@@ -6,7 +6,7 @@ This project consists of one large clock, to which each student adds a mechanism
 ### My Theme Ideas ###
 
 #### The Traveller ####
-Mechanisms depict what we do when travelling, such as walking with a backpack on, sitting on a train/plane, sipping something in a cafe, taking a photograph of some monument, etc. This would be one clock, perhaps deconstructed (numbers spread out and light up around different form than traditional clock) with twelve mechanisms.
+Mechanisms depict what we do when travelling, such as walking with a backpack on, sitting on a train/plane, sipping something in a cafe, taking a photograph of some monument, etc. This would be one clock, perhaps deconstructed (numbers spread out and light up around different form than traditional clock) with twelve mechanisms. Here is one potential mechanism:
 
 ![The Traveller Sketch](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/finalProject_travellerTheme_sketch.jpg)
 
