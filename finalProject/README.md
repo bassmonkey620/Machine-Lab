@@ -2,7 +2,9 @@
 
 This project consists of one large clock, to which each student adds a mechanism.
 ## Ideation ##
+
 ### Theme ###
+
 #### My Theme Ideas ####
 
 ##### The Traveller #####
@@ -20,5 +22,7 @@ Mechanisms depict different instruments come to life, Beauty-in-the-Beast style.
 
 #### Chosen Theme ####
 Self representaiton through hobbies: each student depicts themself through a mechanism depicting a hobby they enjoy.
+
+### Brainstorm ###
 
 
