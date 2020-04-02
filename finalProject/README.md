@@ -10,6 +10,8 @@ Mechanisms depict what we do when travelling, such as walking with a backpack on
 
 ![The Traveller Sketch](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/finalProject_travellerTheme_sketch.jpg)
 
+This wilderness backpacker hikes up a hill. Their leggs move left and right and their forearms arms move up and down to simulate walking. This mechanism might work two ways. In one version, the backpacker hikes up the mountain over the entire hour, and when the reach the top a celebratory sound plays. In another version, the backpacker hikes up the mountain, reaches it at the half hour mark, and then hikes down the other side over the second half of the hour.
+
 #### Apocoalypse ####
 Mechanisms depict different versions of the end of the world, such as nuclear war, famine, overpopulation, sun flare, etc. This could a similar clock to idea 1, but it could also be a build up at 15 minute intervals to a different cataclysm event every hour.
 
