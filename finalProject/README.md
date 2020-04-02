@@ -2,7 +2,8 @@
 
 This project consists of one large clock, to which each student adds a mechanism.
 
-## Theme Ideas ##
+## Theme ##
+### My Theme Ideas ###
 
 1. The Traveller - Mechanisms depict what we do when travelling, such as walking with a backpack on, sitting on a train/plane, sipping something in a cafe, taking a photograph of some monument, etc. This would be one clock, perhaps deconstructed (numbers spread out and light up around different form than traditional clock) with twelve mechanisms.
 ### Rough Sketch ###
@@ -10,4 +11,4 @@ This project consists of one large clock, to which each student adds a mechanism
 2. Apocoalypse - Mechanisms depict different versions of the end of the world, such as nuclear war, famine, overpopulation, sun flare, etc. This could a similar clock to idea 1, but it could also be a build up at 15 minute intervals to a different cataclysm event every hour.
 3. The Orchestra - Mechanisms depict different instruments come to life, Beauty-in-the-Beast style.
 
-The class ultimately chose self-representations through hobbies as the theme for the clock.
+The class ultimately chose **self-representations through hobbies** as the theme for the clock.
