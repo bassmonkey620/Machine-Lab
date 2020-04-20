@@ -2,9 +2,7 @@
 
 This project consists of one large clock, to which each student adds a mechanism.
 
-##### April 2, 2020 #####
-
-## Ideation ##
+## April 2, 2020 ##
 
 ### Theme ###
 
@@ -26,15 +24,13 @@ Mechanisms depict different instruments come to life, Beauty-in-the-Beast style.
 #### Chosen Theme ####
 Self representaiton through hobbies: each student depicts themself through a mechanism depicting a hobby they enjoy.
 
-##### April 6, 2020 #####
+## April 6, 2020 ##
 
 ### Brainstorm ###
 
 To ideate for the chosen theme, I started with a simple word association exercise for each of my current hobbies. From there, I started to imagine different scenes or representations. I decided to try and create a mechanism that that would allow a climber to climb a wall.
 
 ![Picture of Word Association](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/hobbyWordAssociation.jpg)
-
-## Development ##
 
 ### Movement of the Climber ###
 I started with the movement of the climber, independent of the wall. The most basic way to climb is to have the opposite leg move with the the opposite arm, as if one is climbing a ladder.
@@ -114,5 +110,13 @@ The system is modular. Ideally, I would like for there to be four climbers. One 
 - Timing pullleys will have to be used, similar to the setup for the midterm. The width of the mechanism depends upon this.
 - The top may be unnecessary, or more supports may be needed to keep the wall/cliff and back panel from falling over.
 - The lifting mechanism ahs to be even. This will depend on the way the paracord is attached and the weight of the climber movement mechanism.
+
+## April 19, 2020 ##
+
+### Frame ###
+After receiving feedback to use 80/20 aluminum framing (also called t-framing), I modeled the basic structure with 80/20 aluminum framing components. The front and back panel will be modeled to onto the frame with the specialized connectors.
+
+#### Materials ####
+
 
 
