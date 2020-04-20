@@ -114,9 +114,35 @@ The system is modular. Ideally, I would like for there to be four climbers. One 
 ## April 19, 2020 ##
 
 ### Frame ###
-After receiving feedback to use 80/20 aluminum framing (also called t-framing), I modeled the basic structure with 80/20 aluminum framing components. The front and back panel will be modeled to onto the frame with the specialized connectors.
+After receiving feedback to use 80/20 aluminum framing (also called t-slotted framing), I modeled the basic structure with 80/20 aluminum framing components. The front and back panel will be modeled to onto the frame with the specialized connectors.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200419_3Dmodel_climbingFrame.JPG)
 
 #### Materials ####
 
+1. [T-slotted Framing Rail](https://www.mcmaster.com/5537t913)
+   - 60cm x 4
+   - 25cm x 9
+2. [T-slotted Framing Corner Bracket](https://www.mcmaster.com/5537t937) x 2
+   - Fasteners included with purchase, but no model. I used [these](https://www.mcmaster.com/5537t162) x 4
+3. [T-slotted Framing 3-say Outside Corner Bracket](https://www.mcmaster.com/5537t291) x 8
+   - Bolts included with purchase, but not model. I used [these](https://www.mcmaster.com/90258a316) x 24
 
+### Climber Figure ###
+
+I also modeled the climber. The overall height is about 3.4cm. The next steps are to create the mechanism which attaches to and moves this one.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200419_3Dmodel_climber.JPG)
+
+#### Concerns ####
+
+1. Material thickness is 8mm arbitrarily. I do not know what is available yet.
+2. It is really small. I do not know if the 3D printers are precise enough to print .45 diameter capped pins with .025 tolerance holes.
+3. The figure is not an assembly; all the joints are built-in-place.
+
+### Next Steps ###
+
+1. Model the mechanism that moves the climber.
+2. Finalize climber size and material thickness.
+3. Model the pulley system that lifts the climber and climber-movement mechanism.
 
