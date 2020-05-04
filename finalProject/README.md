@@ -146,3 +146,9 @@ I also modeled the climber. The overall height is about 3.4cm. The next steps ar
 2. Finalize climber size and material thickness.
 3. Model the pulley system that lifts the climber and climber-movement mechanism.
 
+## May 3, 2020 ##
+
+### Climber Figure ###
+
+The climber figure has been almost entirely finalized. It's torso is kept stable by a stabilizer afixed to the hanging frame, something I realized I needed only after building everything else and trying to move it. The joints are now snap-fit joints based on the resources provided by my classmate Vince. The figure attaches to the linkages via m2Bolts.
+
