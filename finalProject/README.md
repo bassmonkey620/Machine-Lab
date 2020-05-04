@@ -150,5 +150,47 @@ I also modeled the climber. The overall height is about 3.4cm. The next steps ar
 
 ### Climber Figure ###
 
-The climber figure has been almost entirely finalized. It's torso is kept stable by a stabilizer afixed to the hanging frame, something I realized I needed only after building everything else and trying to move it. The joints are now snap-fit joints based on the resources provided by my classmate Vince. The figure attaches to the linkages via m2Bolts.
+The climber figure has been almost entirely finalized. It has been scaled to 10cm from the original design. It's torso is kept stable by an M3 bolt (all materials listed and linked below)into a stabilizer afixed to the hanging frame, something I realized I needed only after building everything else and trying to move it. The joints are now snap-fit joints based on the resources provided by my classmate Vince. The figure attaches to the linkages via M2 bolts.
 
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberFigure.JPG)
+
+### Movement Mechanism ###
+
+The movement mechanism starts with a worm gear motor. This is attached via  a shaft coupling to an 8mm shift. On the shaft are 5 thrust bearings and four custom cams, kept at the proper angles my M4 set screws. The box is held together with L-brackets and M3 nuts and bolts. The worm gear is afixed with M4 nuts and bolts. The cam followers are intended to be made from 8mm by 8mm key stock (though they can also be made from 8x8 sheets) and have machined screwd-holes in their ends. They are connected via M3 bolts. A cam guide is afixed to the top of the box with M4 nuts and bolts. All cam holes provide .3mm tolerance. There is an additional guide on the frame.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climber_movementMechanism.JPG)
+
+### Hanging Frame ###
+
+I started building the frame which the whole mechanism will hang from. On it I added an additional cam guide which doubles as the stabilizer for the climber's torso. It uses the same L-brackets and M3 nuts and bolts. There is a custom plate which is 3mm thick sheet metal, and is afixed with round-headed M3 bolts rather than the flat head, flush fit ones used in the rest of the design.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/climber_hangingFrame.JPG)
+
+### Movement ###
+
+Using movement links, I was able to demo the movement. I don't have screen-recording software.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_0.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_30.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_60.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_90.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_120.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_150.JPG)
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_180.JPG)
+
+### Materials ###
+
+Please download the zip file to see the exact dimensions. It is approximately. 11cm x 9.1cm x 28.5cm
+
+- 96686A222 : m3Bolts_flat_flatHead x 45 
+- 92095A119 : m3Bolts_round_hex x 3
+- 90592A085 : m3Nuts_standard x 40
+- 90592A090 : m4Nuts_standard x 8
+- 91287A116 : m4Bolts_standard x 4
+- 91390A110 : m4setScrew x4
+- 92005A236 : m4Bolt_round_philipsHead x 4
+- 91800A062 : m2Bolt_flat_flatHead x4
+- 92288A230 : key stock x 30.5cm x 3
+- 5395T211 : shaftCoupling_8mmsShaft x 1
+- 6655K54 : thrustBearings_8mmShaft x 5
+- 19155A34 : L-Bracket x 12
