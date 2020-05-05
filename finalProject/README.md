@@ -194,3 +194,21 @@ Please download the zip file to see the exact dimensions. It is approximately. 1
 - 5395T211 : shaftCoupling_8mmsShaft x 1
 - 6655K54 : thrustBearings_8mmShaft x 5
 - 19155A34 : L-Bracket x 12
+
+## May 4, 2020 ##
+
+### Hanging Frame ###
+
+I finished the hanging frame today, adding L-brackets and eyebolts for the top.
+
+![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200504_hangingFrame.JPG)
+
+### Materials ###
+
+In addition to the May 3 post:
+
+- 3107T41 : m4Eyebolt_12mmShaft x 3
+- 91287A116 : m4Nuts_standard x 3
+- 19155A38 : L-bracket x 3
+- 96686A222 : m3Bolts_flat_flatHead x 8
+- 90592A085 : m3Nuts_standard x 8
