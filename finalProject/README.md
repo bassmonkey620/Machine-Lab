@@ -236,7 +236,7 @@ In my initial design (see the April 6 sketch), I had the axle running from front
 
 PICTURE OF AXLE LEFT-TO-RIGHT
 
-### Frame ###
+### The Big Frame ###
 Modeling the frame was difficult. Aluminum t-framing might be user-friendly in real life, but its lack of 90-degree corners makes it cumbersome to create assemblies with Fusion 360's joints. I made liberal use of joint origins which were the point of intersection between two edges. The frame consists of four 60cm t-frame rails connected from left-to-right with four 25.1cm t-frame rails and from front-to-back with four 15cm t-frame rails. (Resulting in internal dimesnions of 15 x 25.1 x 60.) These are connected at corners with external, 3-way t-frame corners. A shelf extends out from the front, with a 13cm gap between its supporting rail (another 25.1 t-frame rail) and the lowest front rail. This provides an aesthetic sense of scale that might be otherwise dissonant due to the figure being driven by a mechanism underneath it. The vertical stabilizers are made from four 15cm t-frame rails and two 60cm t-frame rails. When assembled, these will be adjusted from the position pictured to optimize their support of the climber-movement mechanisms's vertical motion. The shelf and vertical stabilizers are connected through t-framing brackets and fasteners.
 
 PICTURE OF BASIC FRAME WITHOUT PANELS
@@ -247,7 +247,29 @@ PICTURES OF FRAME WITH PANELS FROM MULTIPLE ANGLES
 
 
 
-    Describe the changes that you make to your design and why you make them
+
+### Materials ###
+
+#### Raw ####
+
+I've built this whole thing assuming I could use steel, but after looking at my design and talking with my professor and the people who work in the ERB, as well as two of my mentors about what materials are available for manufacturing on campus, I realize that acrylic makes more sense. If I had not assumed 8mm, I might have been able to have the aesthetic I wanted without changing the design. That is a design mistake, and one I will try my best to avoid in the future. The following parts with be laser cut from 8mm acrylic:
+- flat panels which connect into
+
+
+
+
+
+### Reminders to My Future Self ###
+
+- Inquire about material thicknesses early on in the process. Assuming a default dimension is fine when one dimension change rescales everything, but not when you're ten hours in...
+- Don't edit the shapes that form the basis for your sketch dimensions. You can easily choose to not extrude them. It's much harder to retrieve a dimension you've unintentionally deleted.
+- Whenever you decide how something will fit, proud, flush fit, tight, loose, consider the entire process of connecting the pieces. Consider hand tools, machines, fastener materials, and accessibility for repair. It doesn't matter if all the ugly joinery is hidden if you can't build it in the real world. Your design should be informed by your ability to fabricate.
+- You can sketch in 3 dimensions. You don't need an extrusion to have a plane.
+- Make a nuts and bolts component. No, don't start sketching your new, shiny component. Make a nuts and bolts component inside it first. Okay, now is this the smallest unit of this component? No? Then make a subcomponent.
+- If you find a method that works (I'm looking at you joints.) than don't spend an hours on a new method that causes problems which take another two hours to fix (I'm looking at you rigid groups.).
+- Research a new method before you attempt it. Programs have tutorials and certifications for a reason. Work smarter, not harder.
+
+   Describe the changes that you make to your design and why you make them
     Discuss the various things you learned on the way.
     Discuss the difficulties you ran into, and how you resolved them
     Discuss how you decided which piece to fabricate by 3D printing, which pieces to fabricate by cutting with the laser cutter, and any other tools
