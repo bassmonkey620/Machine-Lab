@@ -150,13 +150,13 @@ I also modeled the climber. The overall height is about 3.4cm. The next steps ar
 
 ### Climber Figure ###
 
-The climber figure has been almost entirely finalized. It has been scaled to 10cm from the original design. It's torso is kept stable by an M3 bolt (all materials listed and linked below)into a stabilizer afixed to the hanging frame, something I realized I needed only after building everything else and trying to move it. The joints are now snap-fit joints based on the resources provided by my classmate Vince. The figure attaches to the linkages via M2 bolts.
+The climber figure has been almost entirely finalized. It has been scaled to 10cm from the original design. It's torso is kept stable by an M3 bolt (all materials listed and linked below)into a stabilizer afixed to the hanging frame, something I realized I needed only after building everything else and trying to move it. After consulting with the ERB workshop, an joint which allowed for assembly after manufacture, rather than manufacture-in-place, seemed to be a better idea. Based on that recommendation, the joints are now snap-fit joints based on the resources provided by my classmate Vince. The figure attaches to the linkages via M2 bolts.
 
 ![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberFigure.JPG)
 
 ### Movement Mechanism ###
 
-The movement mechanism starts with a worm gear motor. This is attached via  a shaft coupling to an 8mm shift. On the shaft are 5 thrust bearings and four custom cams, kept at the proper angles my M4 set screws. The box is held together with L-brackets and M3 nuts and bolts. The worm gear is afixed with M4 nuts and bolts. The cam followers are intended to be made from 8mm by 8mm key stock (though they can also be made from 8x8 sheets) and have machined screwd-holes in their ends. They are connected via M3 bolts. A cam guide is afixed to the top of the box with M4 nuts and bolts. All cam holes provide .3mm tolerance. There is an additional guide on the frame.
+The movement mechanism starts with a worm gear motor. This is attached via  a shaft coupling to an 8mm shift. On the shaft are 5 thrust bearings and four custom cams, kept at the proper angles my M4 set screws. The box is held together with L-brackets and M3 nuts and bolts. The worm gear is afixed with M4 nuts and bolts. The cam followers are intended to be made from 8mm by 8mm key stock (though they can also be made from 8x8 sheets) and have machined screwd-holes in their ends. They are connected via M3 bolts. A cam guide is afixed to the top of the box with M4 nuts and bolts. All cam holes provide .3mm tolerance. There is an additional guide on the frame that doubles as a stabilizer for the torso of the climber.
 
 ![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climber_movementMechanism.JPG)
 
@@ -199,7 +199,7 @@ Please download the zip file to see the exact dimensions. It is approximately. 1
 
 ### Hanging Frame ###
 
-I finished the hanging frame today, adding L-brackets and eyebolts for the top.
+I finished the hanging frame today, adding L-brackets and eyebolts for the top. These will have wire rope threaded through them. Three eyebolts reduces the risk of tipping the climber-movement mechanism.
 
 ![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200504_hangingFrame.JPG)
 
@@ -212,3 +212,42 @@ In addition to the May 3 post:
 - 19155A38 : L-bracket x 3
 - 96686A222 : m3Bolts_flat_flatHead x 8
 - 90592A085 : m3Nuts_standard x 8
+
+## May 11 (update through May 14), 2020 ##
+
+### Hanging Frame ###
+
+After building out the larger a frame a bit further and learning how to make loops in wire rope, I realized 3 eyebolts was cumbersome design. With vertical tracts that double as mounts for the limit switches, I shouldn't have to worry about tipping too much. The positioning the eyebolts to not contact that the cam followers also felt cumbersome, so I did a bit of looking around for some sort of center-of-mass tool in Fusion 360. When I found it, I used it to find the center of mass of the entire climber-movement mechanism and positioned a single eyebolt over that point. 
+PICTURE OF FRAME WITH SINGLE EYEBOLT
+
+### Movement Mechanisms Plates ###
+At some point, I also realized that flush-fitting nuts and bolts into the plates meant that I probably would not be able to get a wrench around them to tighten them. I adjusted the dimensions and holes so everything sits on top now and then double checked that all fasteners can be accessed by an appropriate tool.
+
+PICTURE OF FLUSH-FIT DESIGN
+
+PICTURE OF OUTSIDE DESIGN
+
+### Lifting Mechanism ###
+After I had the hanging frame, I built the lifting mechanism based on the same worm-gear design used on the bottom mechanism.An 8mm shaft coupling holds an 8mm shaft to the worm gear. The same botls and nuts are used to afix the worm gear to the side plates. Two shaft collars form the bookends for the wire rope, which will be tied on the outside of the axle and wrap around it between the bookends.
+
+PICTURE SHOWING AXLE + WORM GEAR
+
+In my initial design (see the April 6 sketch), I had the axle running from front to back. However, as I beginning to sketch out and extrude the vertical lifiting guides, I once again realized that I needed to think about how the mechanism might tip. If the wire rope was wrapped between the bookends on an axis running from front-to-back, it would be constantly, if perhaps slightly, pulling the climber-movement mechanisms from front-to-back, with no guides to stop the movement. Luckily I had not pushed too far into the frame, so I took note of this and built the hanging plates for the worm gear and axle on the left and right sides of the frame.
+
+PICTURE OF AXLE LEFT-TO-RIGHT
+
+### Frame ###
+Modeling the frame was difficult. Aluminum t-framing might be user-friendly in real life, but its lack of 90-degree corners makes it cumbersome to create assemblies with Fusion 360's joints. The frame consists of four 60cm t-frame rails connected from left-to-right with four 25.1cm t-frame rails and from front-to-back with four 15cm t-frame rails. (Resulting in internal dimesnions of 15 x 25.1 x 60.) These are connected at corners with external, 3-way t-frame corners. A shelf extends out from the front, with a 13cm gap between its supporting rail (another 25.1 t-frame rail) and the lowest front rail. This provides an aesthetic sense of scale that might be otherwise dissonant due to the figure being driven by a mechanism underneath it. The vertical stabilizers are made from four 15cm t-frame rails and two 60cm t-frame rails. When assembled, these will be adjusted from the position pictured to optimize their support of the climber-movement mechanisms's vertical motion.
+
+PICTURE OF BASIC FRAME
+
+The vertical guides are made out of two more 15cm t-frame rails
+
+At first, I had the shaft 
+    Describe the changes that you make to your design and why you make them
+    Discuss the various things you learned on the way.
+    Discuss the difficulties you ran into, and how you resolved them
+    Discuss how you decided which piece to fabricate by 3D printing, which pieces to fabricate by cutting with the laser cutter, and any other tools
+    Discuss how your mechanism will be assembled
+    Discuss what other components or materials you will need when the project is assembled
+    Discuss any remaining problems or concerns
