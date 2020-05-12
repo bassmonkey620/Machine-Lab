@@ -245,7 +245,9 @@ There are five panels, all of 8mm thickness, all attached via t-framing panel ha
 
 PICTURES OF FRAME WITH PANELS FROM MULTIPLE ANGLES
 
+### All Together Now ###
 
+I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, 
 
 
 ### Materials ###
@@ -264,6 +266,13 @@ The figurine itself will be made via high-resolution plastic 3D printer. From di
 
 #### Purchased ####
 
+##### Fasteners #####
+
+##### L-Brackets #####
+
+##### Other #####
+
+### Assembly Process ###
 
 
 ### Reminders to My Future Self ###
@@ -275,6 +284,7 @@ The figurine itself will be made via high-resolution plastic 3D printer. From di
 - Make a nuts and bolts component. No, don't start sketching your new, shiny component. Make a nuts and bolts component inside it first. Okay, now is this the smallest unit of this component? No? Then make a subcomponent.
 - If you find a method that works (I'm looking at you joints.) than don't spend an hours on a new method that causes problems which take another two hours to fix (I'm looking at you rigid groups.).
 - Research a new method before you attempt it. Programs have tutorials and certifications for a reason. Work smarter, not harder.
+- Break the link with things you import immediately after you import them.
 
    Describe the changes that you make to your design and why you make them
     Discuss the various things you learned on the way.
