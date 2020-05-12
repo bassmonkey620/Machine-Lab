@@ -1,6 +1,6 @@
 # One Part of a Big Clock #
 
-This project consists of one large clock, to which each student adds a mechanism.
+The project consists of one large clock, to which each student adds a mechanism. This is the documentation for my contribution.
 
 ## April 2, 2020 ##
 
@@ -252,10 +252,17 @@ PICTURES OF FRAME WITH PANELS FROM MULTIPLE ANGLES
 
 #### Raw ####
 
-I've built this whole thing assuming I could use steel, but after looking at my design and talking with my professor and the people who work in the ERB, as well as two of my mentors about what materials are available for manufacturing on campus, I realize that acrylic makes more sense. If I had not assumed 8mm, I might have been able to have the aesthetic I wanted without changing the design. That is a design mistake, and one I will try my best to avoid in the future. The following parts with be laser cut from 8mm acrylic:
-- flat panels which connect into
+I've designed this whole thing assuming I could use 8mm steel, but after looking at my design and talking with my professor and the people who work in the ERB, as well as two of my mentors about what materials are available for manufacturing on campus, I realize that acrylic makes more sense. If I had not assumed 8mm, I might have been able to have the aesthetic I wanted without changing the design. That is a design mistake, and one I will try my best to avoid in the future. Laser cutting acrylic will allow for a shorter production process and will enable me to do precise etchings. The following parts with be laser cut from 8mm acrylic
 
+- flat panels which connect into the larger frame
+- sides of the movement mechanism box and hanging frame
+- cam followers and linkages
+- cams
+- cam follower guides
 
+The figurine itself will be made via high-resolution plastic 3D printer. From discussions with the ERB, it seems that the metal 3D printer and 5-axis CNC are not available for use at the moment, hence the shift to the snap joints.
+
+#### Purchased ####
 
 
 
