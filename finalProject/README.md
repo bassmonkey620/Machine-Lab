@@ -237,13 +237,16 @@ In my initial design (see the April 6 sketch), I had the axle running from front
 PICTURE OF AXLE LEFT-TO-RIGHT
 
 ### Frame ###
-Modeling the frame was difficult. Aluminum t-framing might be user-friendly in real life, but its lack of 90-degree corners makes it cumbersome to create assemblies with Fusion 360's joints. The frame consists of four 60cm t-frame rails connected from left-to-right with four 25.1cm t-frame rails and from front-to-back with four 15cm t-frame rails. (Resulting in internal dimesnions of 15 x 25.1 x 60.) These are connected at corners with external, 3-way t-frame corners. A shelf extends out from the front, with a 13cm gap between its supporting rail (another 25.1 t-frame rail) and the lowest front rail. This provides an aesthetic sense of scale that might be otherwise dissonant due to the figure being driven by a mechanism underneath it. The vertical stabilizers are made from four 15cm t-frame rails and two 60cm t-frame rails. When assembled, these will be adjusted from the position pictured to optimize their support of the climber-movement mechanisms's vertical motion.
+Modeling the frame was difficult. Aluminum t-framing might be user-friendly in real life, but its lack of 90-degree corners makes it cumbersome to create assemblies with Fusion 360's joints. I made liberal use of joint origins which were the point of intersection between two edges. The frame consists of four 60cm t-frame rails connected from left-to-right with four 25.1cm t-frame rails and from front-to-back with four 15cm t-frame rails. (Resulting in internal dimesnions of 15 x 25.1 x 60.) These are connected at corners with external, 3-way t-frame corners. A shelf extends out from the front, with a 13cm gap between its supporting rail (another 25.1 t-frame rail) and the lowest front rail. This provides an aesthetic sense of scale that might be otherwise dissonant due to the figure being driven by a mechanism underneath it. The vertical stabilizers are made from four 15cm t-frame rails and two 60cm t-frame rails. When assembled, these will be adjusted from the position pictured to optimize their support of the climber-movement mechanisms's vertical motion. The shelf and vertical stabilizers are connected through t-framing brackets and fasteners.
 
-PICTURE OF BASIC FRAME
+PICTURE OF BASIC FRAME WITHOUT PANELS
 
-The vertical guides are made out of two more 15cm t-frame rails
+There are five panels, all of 8mm thickness, all attached via t-framing panel hangers. The front two panels serve to aesthetically establish the idea that the climber is ascending *something* rather than nothing. The two side panels provide a base for the worm gear and axle, as well as some space for battery packs. The back panels provides space for the arduino and battery packs. None of the holes for the arduino or battery packs are modeled because I wanted to leave their positioning flexible until final assembly.
 
-At first, I had the shaft 
+PICTURES OF FRAME WITH PANELS FROM MULTIPLE ANGLES
+
+
+
     Describe the changes that you make to your design and why you make them
     Discuss the various things you learned on the way.
     Discuss the difficulties you ran into, and how you resolved them
