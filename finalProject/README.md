@@ -223,31 +223,40 @@ PICTURE OF FRAME WITH SINGLE EYEBOLT
 ### Movement Mechanisms Plates ###
 At some point, I also realized that flush-fitting nuts and bolts into the plates meant that I probably would not be able to get a wrench around them to tighten them. I adjusted the dimensions and holes so everything sits on top now and then double checked that all fasteners can be accessed by an appropriate tool.
 
-PICTURE OF FLUSH-FIT DESIGN
+![Flush Fit Mistake](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/flushFitMistake.JPG)
 
-PICTURE OF OUTSIDE DESIGN
+![Proud Fit Solution](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/proudSolution.JPG)
 
 ### Lifting Mechanism ###
 After I had the hanging frame, I built the lifting mechanism based on the same worm-gear design used on the bottom mechanism.An 8mm shaft coupling holds an 8mm shaft to the worm gear. The same botls and nuts are used to afix the worm gear to the side plates. Two shaft collars form the bookends for the wire rope, which will be tied on the outside of the axle and wrap around it between the bookends.
 
-PICTURE SHOWING AXLE + WORM GEAR
+![Worm Gear](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/wormGearAndAxle.JPG)
 
 In my initial design (see the April 6 sketch), I had the axle running from front to back. However, as I beginning to sketch out and extrude the vertical lifiting guides, I once again realized that I needed to think about how the mechanism might tip. If the wire rope was wrapped between the bookends on an axis running from front-to-back, it would be constantly, if perhaps slightly, pulling the climber-movement mechanisms from front-to-back, with no guides to stop the movement. Luckily I had not pushed too far into the frame, so I took note of this and built the hanging plates for the worm gear and axle on the left and right sides of the frame.
-
-PICTURE OF AXLE LEFT-TO-RIGHT
 
 ### The Big Frame ###
 Modeling the frame was difficult. Aluminum t-framing might be user-friendly in real life, but its lack of 90-degree corners makes it cumbersome to create assemblies with Fusion 360's joints. I made liberal use of joint origins which were the point of intersection between two edges. The frame consists of four 60cm t-frame rails connected from left-to-right with four 25.1cm t-frame rails and from front-to-back with four 15cm t-frame rails. (Resulting in internal dimesnions of 15 x 25.1 x 60.) These are connected at corners with external, 3-way t-frame corners. A shelf extends out from the front, with a 13cm gap between its supporting rail (another 25.1 t-frame rail) and the lowest front rail. This provides an aesthetic sense of scale that might be otherwise dissonant due to the figure being driven by a mechanism underneath it. The vertical stabilizers are made from four 15cm t-frame rails and two 60cm t-frame rails. When assembled, these will be adjusted from the position pictured to optimize their support of the climber-movement mechanisms's vertical motion. The shelf and vertical stabilizers are connected through t-framing brackets and fasteners.
 
-PICTURE OF BASIC FRAME WITHOUT PANELS
+![Frame Basic](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/framBasic.JPG)
 
-There are five panels, all of 8mm thickness, all attached via t-framing panel hangers. The front two panels serve to aesthetically establish the idea that the climber is ascending *something* rather than nothing. The two side panels provide a base for the worm gear and axle, as well as some space for battery packs. The back panels provides space for the arduino and battery packs. None of the holes for the arduino or battery packs are modeled because I wanted to leave their positioning flexible until final assembly.
+There are five panels, all of 8mm thickness, all attached via t-framing panel hangers. The front two panels serve to aesthetically establish the idea that the climber is ascending *something* rather than nothing. The two side panels provide a base for the worm gear and axle, as well as some space for battery packs. The back panels provides space for the arduino and battery packs. None of the holes for the arduino or battery packs or limit switches are modeled because I wanted to leave their positioning flexible until final assembly.
 
-PICTURES OF FRAME WITH PANELS FROM MULTIPLE ANGLES
+![Frame Front](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/frameFront.JPG)
+
+![Frame Back](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/frameBack.JPG)
+
+![Frame Inside](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/frameInside.JPG)
+
+![Frame Inside](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/frameInside_2.JPG)
 
 ### All Together Now ###
 
-I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, 
+I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, when I tried to demo the movement inside of my frame file, it crashed Fusion 360, and when I reloaded, the arm was kinked and the cams were all out of place. It still works in theoriginal climber file, however. Please note that it will be fixed. Also, the wire rope and wire rope (thank you for the recommendation professor) and the compression sleeve for its loop I decided on are not pictured. I could not figure out how to join loops like that, and did not think it would be useful to feature in the model. Please see the materials list for the wire rope and compression sleeve I will use.
+
+
+### How it Will Hang ###
+
+In short, the wire rope will be tied around the axle on the outside of the shaft collars. It will wrap around in between the shaft collars, and then be pulled one side of a compression sleeve, through the eyebolt, and back through the compression sleeve. This will create a loop. The compression sleeve may not be necessary. If the wire rope keeps its shape well enough, I may simpley wrap it around itself.
 
 
 ### Materials ###
@@ -266,7 +275,7 @@ The figurine itself will be made via high-resolution plastic 3D printer. From di
 
 #### Purchasable ####
 
-This a list of all the components used in the model which would not be cut from acrylic or 3D printed. Please note that the 8mm shaft and worm gears refer to those used or referencced in class.
+This a list of all the components used in the model which would not be cut from acrylic or 3D printed. Please note that the 8mm shaft and worm gears refer to those used or referencced in class. All the codes are from McMaster.
 
 ##### Fasteners #####
 
