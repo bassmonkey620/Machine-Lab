@@ -269,37 +269,141 @@ The figurine itself will be made via high-resolution plastic 3D printer. From di
 This a list of all the components used in the model which would not be cut from acrylic or 3D printed.
 
 ##### Fasteners #####
+
 90592A085 M3 NUT X 55
+
 96686A222 M3 BOLT X 61
+
 4843T11 EYEBOLT X 1
+
 9059A016 M6 NUT X 1
+
 91287A116 M4 BOLT X 4
+
 92005A236 M4 BOLT X 8
+
 9059A090 M4 NUT X 12
+
 9139A110 SET SCREW X 4
-91800A062 M2 BOLT X 4
+
+91800A062 M1 BOLT X 4
+
 5537T162 T-SLOTTED FRAMING FASTENER X 24
+
 92949A335 6-32 SCREWS X 4
 
+92095A119 M3 ROUND HEAD BOLTS X 3
+
 ##### Brackets #####
+
 19155A34 L-BRACKET X 12
+
 19155A38 L-BACKET X 2
+
 5537T309 T-SLOTTED FRAMING HANGER X 12
+
 5537T291 T-SLOTTED FRAMING EXTERNAL CORNER X 8
+
 5537T937 T-SLOTTED FRAMING CORNER BRACKET X 12
 
 ##### Other #####
+
 5395T211 SHAFT COUPLING X 2
+
 6655K54 THRUST BALL BEARING X 5
+
 57445K24 SHAFT COLLAR X 2
+
 7090K37 LIMIT SWITCH X 2
+
 8MM SHAFT X 2 (28.55CM, 7.5CM)
+
 12V DC WORMG GEAR X 2
+
 4561T325 WIRE ROPE
+
 3897T31 WIRE ROPE COMPRESSION SLEEVE
 
 ### Assembly Process ###
 
+1. 3D print and snap the figure piecs together.
+2. Laser cut the pieces for the box, panels, linkages, cam followers, and movement mechanism stabilizers out of 8mm acrylic.
+   1. Tap a M3 x 0.5 hole in the center of an iamgined 8mmx8mm box at the end on one of the long sides of each of the cam followers (M3 X 0.5).
+   2. Tap the same hole in the end facs of each of the short linkages.
+   3. Tap the same hole in the side faces of each of the linkages to the figure, using the same imagined 8x8 box.
+   4. Tap a M1 x 0.25 hole in the opposite end face of each linkage to the figure.
+   5. Tap another M3 x 0.5 hole in the center of the end of the vertical stabilizer key.
+3. Assemble the climber movement mechanism box.
+   - Use the short l-brackets and M3 flat-head bolts and M3 nuts to connect the top and bottom to the worm gear side. Leave the shaft-support side off for now.
+   1. Attach the cam guide to the outside of the top with the M4 flat-head bolts and M4 nuts
+4. Assemble climber movement mechanism.
+   1. Attach the worm gear to the worm gear box side using round-headed M4 bolts and M4 nuts. The black cylinder will point up.
+   2. Use the shaft coupling to attach the 7.5cm-long 8mm steel shaft to the worm gear shaft.
+   3. Slide a thrust ball bearing on to the shaft, then a leg cam, then a bearing, then an arm cam, then a bearing, then a leg cam, then a bearing, then an arm can, and then the final bearing.
+   4. Use the M4 set screws to position the cams relative to the shaft.
+      - The two cams closest to the worm gear should be 180-degrees rotated in relation to the two cams farthest from the worm gear.
+   5. Slide the shaft-support side of the box onto the shaft an attatch to top and bottom with short l-brackets and M3 flat-head bolts and M3 nuts.
+5. Assemble cam followers and linkages.
+   1. Use the M3 flat-head bolts to attach the short linkages to each of the cam followers. 
+   2. Use M3 flat-head bolts to attach each of the linkages to the figure to each of the short linkages. 
+      - Longest and second-to-shortest linkages to the figurine go on the short linkages attached to the leg cam followers.
+      - Shortest and second-to-longest linkages to the figurine go on the short linkages attached to the arm cam followers.
+6. Slide the cam followers into the cam follower guide, ensuring that all the linkages to the figure point away from the worm gear.
+7. Use the M1 bolts to attach the figurine's hands and legs to the appropriate cam linkages.
+8. Use short l-brackets, M3 flat-head bolts and M3 nuts to attach the vertical stabilizers to the back plate of the hanging frame
+9. Use the same l-brackets and fasteners to attach the hanging frame back to the top of the mechanism box.
+10. Use the long l-brackets and the same fasteners to attach the hanging frame top to the hanging frame back panel.
+11. Insert the eyebolt and use the M6 nut to fasten it. Ensure the hole opens to the left and the right of the mechanism.
+12. Attach the vertical stabilizer connecting plate to the vertical stabilizers using the round-headed M3 bolts and M3 nuts.
+13. Attach the vertical stabilizer key to the connecting plate with the same fasteners.
+14. Stabilize the torso of the figurine by firmly fastening it to the Stabilizer key with an M3 bolt.
+15. Assemble the 80/20 aluminum frame.
+    1. Assemble a rectangular prism using the 3-piece external connectors and the 60cm aluminum rails x 4, the 25.1cm aluminum rails x 4, and the 15cm aluminum rails x 4. The 25.1cm aluminum rails should go on the front and back.
+    2. Assemble the vertical stabilizers.
+       1. Use corner brackets and the t-slotted framing fasteners to attach two 15cm rails to the ends of one 60cm rail, ensuring the 15cm rails are parallel, and the corner brackets are on the same face of the 60cm rails. Keep the fasteners loose. Do this for another 60cm rail and two more 15cm rails.
+       2. Use corner brackets to four corner brackets to attach the 15cm rails on the vertical stabilizers to the 25.1cm rails of the external frame. Ensure tha the corner brackets of the two different rails point toward each other (and that the corner brackets attaching each rail are on the same face of the 15cm rail). 
+          - Keep these fasteners loose.
+    3. Assemble the shelf.
+       1. Attach two corner brackets to the oposite edges of one face of a 25.1cm rail.
+       2. Attach these corner brackets to the inner faces of the two front 60cm rails on the external frame.
+16. Attach panels to the frame.
+    1. Around the top rails of the frame, attach two panel hangers to each of the outward facing faces of the 15cm and 25.1cm rails.  
+       - Ensure they are afixed as far from the center as possible.
+    2. Slide each of the front panels into the 60cm rails on the front of the frame, such that the corner cutout can fit over the brackets of the shelf. Lower the shelf if necessary. 
+    3. Use two more hangers on the back of the front panels to afix them to the 60cm rails.
+    4. Attach the wormg gear side panel to the right side of the frame (if looking at the frame from the front).
+    5. Assemble the worm gear and shaft.
+       1. Attach the worm gear, black cylinder down, to the outside of the worm gear panel using the round-head M4 nuts and M4 bolts.
+       2. Use the 8mm shaft coupling to attach the longer 8mm steel shaft to the worm gear shaft. Slide the two shaft collars on. 
+          - Ensure that the vertical stabilizers are on the front side of the shaft. Adjust if necessary. And fasten tightly.
+    6. Attach the shaft-support side panel to the appropriate hangers.
+       3. Position the shaft collars such that they are just inside the two vertical stabilizers.
+       4. Tie the wire rope around the shaft on the outside of the shaft collars, wrap it once around the shaft in between the shaft collars, and let it hang.
+    7. Attach the back panel to its appropriate hangers
+17. Assemble the shelf.
+    1. Slide the shelf into the front facing slot of the shelf 25.1cm rail.
+    2. Use two panel hangers underneath the shelf to attach it to the shelf rail.
+    3. Slide the shelf up until the two front panels slide into the top slot of the shelf rail.
+18. Hang the mechanism.
+    1. Slide the compression sleeve on the hanging end of the wire rope.
+    2. Pull the wire rope through the eyeboltan back through the compressoin sleeve.
+    3. Place the mechanism into the frame such that the climber extends between the two front panels and above the shelf.
+    4. Take the slack out of the wire rope, compress the compression sleeve, and cut the excess rope away.
+19. Stabilize the mechanism.
+    1. Pull the vertical stabilizers in toward the movement mechanism.
+    2. Test that the mechanism can slide up and down without too much friction.
+    3. Ensure the 60cm rails of the vertical stabilizers are on the front side of the shaft and not contacting it.
+    4. Tighten all the fasteners of the vertical stabilizers.
+20. Attach the limit switches.
+    1. Position the limit switches at the top and the bottom of a vertical stabilizer, such that the mechanism will hit them at the end range of the lifting motion.
+    2. Drill appropriate holes and attach the limit switches with the 6-32 screws.
+21. Figure out appropriate positions for the arduino and battery packs on the back and side panels.
+22. Drill holes for the arduino and battery packs.
+33. Fasten the arduino and batter packs to the panels.
+
+### Concerns ###
+
+I'm not sure if tying the wire rope to the shaft will work to keep it on the shaft during rotations. Otherwise, I think everything should work.
 
 ### Reminders to My Future Self ###
 
