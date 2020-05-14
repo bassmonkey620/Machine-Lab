@@ -376,9 +376,9 @@ This a list of all the components used in the model which would not be cut from 
        1. Attach the worm gear, black cylinder down, to the outside of the worm gear panel using the round-head M4 nuts and M4 bolts.
        2. Use the 8mm shaft coupling to attach the longer 8mm steel shaft to the worm gear shaft. Slide the two shaft collars on. 
           - Ensure that the vertical stabilizers are on the front side of the shaft. Adjust if necessary. And fasten tightly.
-    6. Attach the shaft-support side panel to the appropriate hangers.
-       3. Position the shaft collars such that they are just inside the two vertical stabilizers.
-       4. Tie the wire rope around the shaft on the outside of the shaft collars, wrap it once around the shaft in between the shaft collars, and let it hang.
+    6. Attach the shaft-support side panel to the appropriate hangers, sliding it onto the shaft.
+       1. Position the shaft collars such that they are just inside the two vertical stabilizers.
+       2. Tie the wire rope around the shaft on the outside of the shaft collars, wrap it once around the shaft in between the shaft collars, and let it hang.
     7. Attach the back panel to its appropriate hangers
 17. Assemble the shelf.
     1. Slide the shelf into the front facing slot of the shelf 25.1cm rail.
