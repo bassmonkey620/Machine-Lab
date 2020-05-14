@@ -168,7 +168,7 @@ I started building the frame which the whole mechanism will hang from. On it I a
 
 ### Movement ###
 
-Using movement links, I was able to demo the movement. I don't have screen-recording software.
+Using movement links, I was able to demo the movement. I don't have screen-recording software. (COMMENT 14/5/20) Unforutnately, I could not figure out how to have the motion happen with contact enabled, so it only moves between 0 and 180 degrees. I have checked and rechecked if there is anything inhibiting the movement, and there is not. (END COMMENT)
 
 ![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_0.JPG)
 ![3D Modeled Frame](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/200503_climberMoving_30.JPG)
@@ -262,11 +262,11 @@ I've designed this whole thing assuming I could use 8mm steel, but after looking
 - cams
 - cam follower guides
 
-The figurine itself will be made via high-resolution plastic 3D printer. From discussions with the ERB, it seems that the metal 3D printer and 5-axis CNC are not available for use at the moment, hence the shift to the snap joints.
+The figurine itself will be made via high-resolution plastic 3D printer. From discussions with the ERB, it seems that the metal 3D printer and 5-axis CNC are not available for use at the moment, hence the shift to the snap joints and the use of a plastic 3D printer.
 
 #### Purchasable ####
 
-This a list of all the components used in the model which would not be cut from acrylic or 3D printed.
+This a list of all the components used in the model which would not be cut from acrylic or 3D printed. Please note that the 8mm shaft and worm gears refer to those used or referencced in class.
 
 ##### Fasteners #####
 
@@ -415,11 +415,3 @@ I'm not sure if tying the wire rope to the shaft will work to keep it on the sha
 - If you find a method that works (I'm looking at you joints.) than don't spend an hours on a new method that causes problems which take another two hours to fix (I'm looking at you rigid groups.).
 - Research a new method before you attempt it. Programs have tutorials and certifications for a reason. Work smarter, not harder.
 - Break the link with things you import immediately after you import them.
-
-   Describe the changes that you make to your design and why you make them
-    Discuss the various things you learned on the way.
-    Discuss the difficulties you ran into, and how you resolved them
-    Discuss how you decided which piece to fabricate by 3D printing, which pieces to fabricate by cutting with the laser cutter, and any other tools
-    Discuss how your mechanism will be assembled
-    Discuss what other components or materials you will need when the project is assembled
-    Discuss any remaining problems or concerns
