@@ -264,13 +264,39 @@ I've designed this whole thing assuming I could use 8mm steel, but after looking
 
 The figurine itself will be made via high-resolution plastic 3D printer. From discussions with the ERB, it seems that the metal 3D printer and 5-axis CNC are not available for use at the moment, hence the shift to the snap joints.
 
-#### Purchased ####
+#### Purchasable ####
+
+This a list of all the components used in the model which would not be cut from acrylic or 3D printed.
 
 ##### Fasteners #####
+90592A085 M3 NUT X 55
+96686A222 M3 BOLT X 61
+4843T11 EYEBOLT X 1
+9059A016 M6 NUT X 1
+91287A116 M4 BOLT X 4
+92005A236 M4 BOLT X 8
+9059A090 M4 NUT X 12
+9139A110 SET SCREW X 4
+91800A062 M2 BOLT X 4
+5537T162 T-SLOTTED FRAMING FASTENER X 24
+92949A335 6-32 SCREWS X 4
 
-##### L-Brackets #####
+##### Brackets #####
+19155A34 L-BRACKET X 12
+19155A38 L-BACKET X 2
+5537T309 T-SLOTTED FRAMING HANGER X 12
+5537T291 T-SLOTTED FRAMING EXTERNAL CORNER X 8
+5537T937 T-SLOTTED FRAMING CORNER BRACKET X 12
 
 ##### Other #####
+5395T211 SHAFT COUPLING X 2
+6655K54 THRUST BALL BEARING X 5
+57445K24 SHAFT COLLAR X 2
+7090K37 LIMIT SWITCH X 2
+8MM SHAFT X 2 (28.55CM, 7.5CM)
+12V DC WORMG GEAR X 2
+4561T325 WIRE ROPE
+3897T31 WIRE ROPE COMPRESSION SLEEVE
 
 ### Assembly Process ###
 
