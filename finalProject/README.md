@@ -253,6 +253,8 @@ There are five panels, all of 8mm thickness, all attached via t-framing panel ha
 
 I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, when I tried to demo the movement inside of my frame file, it crashed Fusion 360, and when I reloaded, the arm was kinked and the cams were all out of place. It still works in theoriginal climber file, however. Please note that it will be fixed. Also, the wire rope and wire rope (thank you for the recommendation professor) and the compression sleeve for its loop I decided on are not pictured. I could not figure out how to join loops like that, and did not think it would be useful to feature in the model. Please see the materials list for the wire rope and compression sleeve I will use.
 
+![Full](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/finalProjectFull.JPG)
+
 
 ### How it Will Hang ###
 
