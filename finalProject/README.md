@@ -251,12 +251,12 @@ There are five panels, all of 8mm thickness, all attached via t-framing panel ha
 
 ### All Together Now ###
 
-I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, when I tried to demo the movement inside of my frame file, it crashed Fusion 360, and when I reloaded, the arm was kinked and the cams were all out of place. It still works in theoriginal climber file, however. Please note that it will be fixed. Also, the wire rope and wire rope (thank you for the recommendation professor) and the compression sleeve for its loop I decided on are not pictured. I could not figure out how to join loops like that, and did not think it would be useful to feature in the model. Please see the materials list for the wire rope and compression sleeve I will use.
+I imported the climber-movement mechanism into the framing/lifting mechanism file to use for reference. Unfortunately, when I tried to demo the movement inside of my frame file, it crashed Fusion 360, and when I reloaded, the arm was kinked and the cams were all out of place. It still works in the original climber file, however. Please note that it will be fixed. Also, the wire rope (thank you for the recommendation professor) and the compression sleeve for its loop I decided on are not pictured. I could not figure out how to join loops like that, and did not think it would be useful to feature in the model. Please see the materials list for the wire rope and compression sleeve I will use.
 
 ![Full](https://github.com/bassmonkey620/Machine-Lab/blob/master/finalProject/referenceMedia/finalProjectFull.JPG)
 
 
-### How it Will Hang ###
+### How It Will Hang ###
 
 In short, the wire rope will be tied around the axle on the outside of the shaft collars. It will wrap around in between the shaft collars, and then be pulled one side of a compression sleeve, through the eyebolt, and back through the compression sleeve. This will create a loop. The compression sleeve may not be necessary. If the wire rope keeps its shape well enough, I may simpley wrap it around itself.
 
